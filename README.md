@@ -71,6 +71,6 @@ removing outliers from height:
  
  ![OUTPUT](./img6.png)
  
- Result:
+ ## Result:
  
 Thus the outliers are detected and removed in the given file and the final data set is saved into the file.
